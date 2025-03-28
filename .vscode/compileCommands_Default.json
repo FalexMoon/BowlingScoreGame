@@ -1,0 +1,186 @@
+[
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BaseFrame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BaseFrame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoreBoard.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoreBoard.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGameCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGameCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGameGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGameGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGamePlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGamePlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGameProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\BowlingScoringGameProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\Frame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\Frame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\Frame3Attempts.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\Frame3Attempts.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\Source\\BowlingScoringGame\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\ProyectosUnreal\\Apex\\BowlingScoringGame\\.vscode\\compileCommands_Default\\BowlingScoringGame.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.3\\Engine\\Source"
+	}
+]
